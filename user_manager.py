@@ -1,6 +1,3 @@
-from ctypes.wintypes import WORD
-
-
 def userlogin(username):
     userdb = open("userdb.txt","r")
     for i in userdb:
