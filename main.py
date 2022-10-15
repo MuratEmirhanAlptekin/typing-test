@@ -2,7 +2,6 @@ import words_manager
 import result_calculator 
 import user_manager
 from datetime import datetime
-from os import path
 from time import sleep
 
 def start(username):
